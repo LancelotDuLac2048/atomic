@@ -1,4 +1,5 @@
 Final Programming Project: Atomic Nature of Matter
+This is the final project for my f2023 intro programming class.
 
 /**********************************************************************
  * Approximate number of hours to complete this assignment            *
